@@ -11,6 +11,9 @@ CREATE TABLE books
      quantity  REAL
   ); 
   
+  
+  
+  
   CREATE TABLE users
   ( 
      username  VARCHAR(100) PRIMARY KEY, 
